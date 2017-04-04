@@ -1,0 +1,120 @@
+h2 {
+	position: static;
+	font-size: 40px;
+	font-weight: bold;
+	background-color: rgba(255, 255, 255, 0.4);
+	color: rgba(230, 24, 72, 1);
+	font-family:'Text Me One', sans-serif;
+}
+
+h3 {
+	font-family:'Text Me One', sans-serif;
+	font-size: 20px;
+	color: rgba(230, 24, 72, 1);
+}
+
+h4 {
+	font-family:'Text Me One', sans-serif;
+	font-size: 20px;
+	color: grey;
+	text-align: center;
+	padding-bottom: 40px;
+}
+
+
+
+
+.navbar-inverse {
+  font-family: 'Text Me One', sans-serif;	
+  text-align: center;
+  border: transparent;
+}
+
+
+.jumbotron {
+	min-height: 300px;
+	background-image: url(background.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.jumbotron h2 {
+	font-family: 'Text Me One', sans-serif;
+	color: rgba(219, 0, 0, 1);
+	padding-left: 20px;
+	margin-top: 200px;	
+}
+
+
+
+
+
+
+.pages {
+	background-color: white;
+}
+
+
+.ft1 {
+	margin: 1px;
+	min-height: 600px;
+	text-align: center;
+	background-color: lavender;
+} 
+.ft2 {
+	margin: 1px;
+	min-height: 600px;
+	text-align: center;
+	background-color: lavender;
+}
+.ft3 {
+	margin: 1px;
+	min-height: 600px;
+	text-align: center;
+	background-color: lavender;
+}
+
+.ft4 {
+	margin: 1px;
+	min-height: 600px;
+	text-align: center;
+	background-color: lavender;
+}
+
+
+
+
+
+
+#about {
+	min-height: 300px;
+	background-color: white;
+	text-align: center;
+	padding: 70px 20px 20px 20px;
+}
+
+#archive {
+	margin: 1px;
+	min-height: 400px;
+}
+
+#contact {
+	margin: 1px;
+	padding: 40px 20px 20px 20px;
+	min-height: 300px;
+	text-align: center;
+	background-color:rgba(162, 204, 245, 0.65);
+	font-family:'Text Me One', sans-serif;
+}
+
+
+
+ input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+
+
+
+
