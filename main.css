@@ -75,6 +75,7 @@ h5 {
 	width: 100%;
 	height: 100%;
 }
+
 .ft2 {
 	margin: 3px;
 	min-height: 600px;
@@ -96,7 +97,10 @@ h5 {
 	background-color: white;
 	font-family: 'Text Me One', sans-serif;
 }
-
+.ft3 img {
+	width: 100%;
+	height: 100%;
+}
 
 
 .ft4 {
