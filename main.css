@@ -20,6 +20,7 @@ h4 {
 	padding top: 30px;
 	padding-bottom: 40px;
 }
+
 h5 {
 	font-family:'Text Me One', sans-serif;
 	font-size: 20px;
@@ -61,6 +62,7 @@ h5 {
 }
 
 
+
 .ft1 {
 	margin: 3px;
 	min-height: 600px;
@@ -85,13 +87,16 @@ h5 {
 	font-size: 50px;
 }
 
+
+
 .ft3 {
 	margin: 3px;
 	min-height: 600px;
 	text-align: center;
-	background-color: lavender;
+	background-color: white;
 	font-family: 'Text Me One', sans-serif;
 }
+
 
 
 .ft4 {
